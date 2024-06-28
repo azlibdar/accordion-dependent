@@ -5,31 +5,3 @@ Accordion-Dependent provides a streamlined and interactive way to display FAQs, 
 <br>
 
 ![image](https://github.com/azlibdar/accordion-dependent/assets/121456353/a44271ed-a2c9-472e-97db-70d43f3c13d1)
-
-<br>
-
-## Usage
-
-1. Clone the Repository:
-
-```bash
-git clone https://github.com/azlibdar/accordion-dependent.git
-```
-
-2. Navigate to the Project Directory:
-
-```bash
-cd accordion-independent
-```
-
-3. Install Dependencies:
-
-```bash
-npm install
-```
-
-4. Run the Application:
-
-```bash
-npm run dev
-```
